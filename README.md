@@ -1,32 +1,65 @@
-![Pro Web developer , WordPress and Elementor Expert](https://github.com/devsrsihab/allimages/blob/master/images/animation_500_kxa883sd.gif)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-### Hi There 👋, My name is Sihab
-#### Pro Web developer , WordPress and Elementor Expert
+<h1 align="center"> I'm Md Sohanur Rohman Sihab<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
+<h3 align="center">I'm a  Web Developer from Bangladesh </h3>
+  
+I'm a  Web developer from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
 
- This is Sihab, A professional Web Developer And WordPress Expert in Divi Theme, Elementor Pro I Have been working in this Filed since 2 Years
-
-Skills: PHP/ Laravel / JS / HTML / CSS?j-Query
-
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Sorobindu Academy 
-- ⚡ Fun fact: I love to Travel and Watching Movie 
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/devsrsihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/devsrsihab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/devsrsihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/devsrsihab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/devsrsihab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCFZiYJUuKHrzkQ1dJyeKNJA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://developersrsihab.com/)  
+<img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 🌱 I’m currently learning PHP, Laravel.
+- 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
+- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/devsrsihab)
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Love to travel and Watching Movie!
+  <br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devsrsihab)](https://github.com/ryo-ma/github-profile-trophy)
+## 👨‍💻 My Languages and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsrsihab)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devsrsihab&show_icons=true)  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=devsrsihab)  
+<br>
 
-![GitHub metrics](https://metrics.lecoq.io/devsrsihab)  
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+</div>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devsrsihab)  
+<br >
 
-![Profile views](https://gpvc.arturio.dev/devsrsihab)  
+## 🏆 My Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=devsrsihab&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=devsrsihab&theme=dark" width="45%" >
+
+<br>
+
+<div align="center">
+
+### Give More ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devsrsihab/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devsrsihab/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/devsrsihab)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://developersrsihab.com/)
+
+<a href="https://"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
+</div>
