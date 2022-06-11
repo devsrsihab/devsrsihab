@@ -2,7 +2,7 @@
 ![Github Banner](https://user-images.githubusercontent.com/91025640/161419212-1f01d300-ace8-4a7e-a87c-06712c38ab38.jpg)
 
 
-<h1 align="center"> I'm Md Sohanur Rohman Sihab<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> I'm Md Sohanur Rohman Sihab ! </h1>
 
 <h3 align="center">I'm a  Web Developer from Bangladesh </h3>
   
