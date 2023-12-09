@@ -1,4 +1,4 @@
-![Github Banner](https://user-images.githubusercontent.com/91025640/161419212-1f01d300-ace8-4a7e-a87c-06712c38ab38.jpg)
+![Github Banner](https://raw.githubusercontent.com/devsrsihab/devsrsihab/main/devsrsihab-banner.svg)
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Current Status</h2>
 
