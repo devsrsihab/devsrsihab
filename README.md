@@ -27,17 +27,6 @@
 <br >
 
 <div style="color: white;">
-  <style>
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li::before {
-      content: '\2713'; /* Checkmark Unicode */
-      color: #00dfa2; /* Same as your color scheme */
-      margin-right: 8px;
-    }
-  </style>
   
   <h2 style="color:#00dfa2" >Overview</h2>
   <ul>
