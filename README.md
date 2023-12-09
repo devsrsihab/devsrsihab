@@ -29,11 +29,13 @@
 <div style="color: white;">
   
   <h2 style="color:#00dfa2" >Overview</h2>
-  <ul>
-    <li>Actively advancing skills in Deep React and Next.js</li>
-    <li>Future Goals: Mastery of MERN Stack, Redux and Next.js</li>
-    <li>Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!</li>
-  </ul>
+
+🚀Actively advancing skills in Deep React and Next.js <br>
+
+🎯Future Goals: Mastery of MERN Stack, Redux and Next.js<br>
+
+💡Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!
+
 </div>
 
 <br/>
