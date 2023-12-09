@@ -4,63 +4,50 @@
 
 <h1 align="center"> I'm Md Sohanur Rohman Sihab ! </h1>
 
-<h3 align="center">I'm a  Web Developer from Bangladesh </h3>
-  
-I'm a  Web developer from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:
-
-![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
 
-<img width="25%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" />
 
-- 🌱 I’m currently learning PHP, Laravel.
-- 👯 I’m looking to collaborate on Laravel projects and Basic Web Dev stuff
-- 📫 How to reach me: You may follow me on [Facebook](https://www.facebook.com/devsrsihab)
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Love to travel and Watching Movie!
+<h2 style="color:#0079ff;">Overview</h2>
+
+- 🌱 Actively advancing skills in Deep React and Next.js
+- 🔜 Future Goals: Mastery of  MERN Stack in-depth exploration Redux and Next.js
+- ⚡  Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!
+
   <br />
 
-## 👨‍💻 My Languages and Tools
+
+<h2 style="margin: 25px 0px;color:#0079ff;">Technologies I know</h2>
+
 
 <div align="center">
 
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/next.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/JS.png?raw=true" height="60" width="60">
+<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
 <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
 
-<br>
-
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/react.png?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/vs.png?raw=true" height="60" width="60">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" height="60" width="60">
+
 </div>
 
 <br >
 
-## 🏆 My Github Status
+## Current Status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsrsihab&background=45%2C1E000B%2C000000&ring=00DFA2&border=0079FF&fire=00DFA2&currStreakNum=00DFA2&currStreakLabel=00DFA2&dates=DFF6FF&sideNums=0079FF&sideLabels=0079FF)](https://git.io/streak-stats)
 
 
 <br>
 
-<div align="center">
 
-### Give More ❤️ by starring ⭐ some of the repositories!
+## Get in Touch
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devsrsihab/)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/devsrsihab/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/devsrsihab)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](http://devsrsihab.com/)
 
-<a href="https://"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
-</div>
