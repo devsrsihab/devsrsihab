@@ -35,7 +35,7 @@
 <h2 style="margin: 25px 0px;color:#00dfa2;">Technologies I know</h2>
 
 
-<div align="center">
+<div >
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="60" width="60">
