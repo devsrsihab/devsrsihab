@@ -8,39 +8,46 @@
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Technologies I know</h2>
 
-<div style="display:grid;grid-template-columns: repeat(5, 1fr);
- gap: 10px" >
+<div  >
+
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="60" width="60">
+
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" height="60" width="60">
+
 </div>
 
 <br >
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-
 <div style="color: white;">
-
+  <style>
+    ul {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    li::before {
+      content: '\2713'; /* Checkmark Unicode */
+      color: #00dfa2; /* Same as your color scheme */
+      margin-right: 8px;
+    }
+  </style>
   
-  <h2 style="color:#00dfa2" >Overview 🌟</h2>
-  <ul style=" list-style-type: none;
-      padding-left: 0;" >
-    <li style=" font-family: 'Font Awesome 5 Free';
-      margin-right: 8px;" ><i class="fas fa-code"></i> Actively advancing skills in Deep React and Next.js</li>
-    <li style=" font-family: 'Font Awesome 5 Free';
-      margin-right: 8px;" ><i class="fas fa-graduation-cap"></i> Future Goals: Mastery of MERN Stack, Redux, and Next.js</li>
-    <li style=" font-family: 'Font Awesome 5 Free';
-      margin-right: 8px;" ><i class="fas fa-brain"></i> Fun fact: I embrace learning something new every day, constantly expanding my knowledge base! 🚀</li>
+  <h2 style="color:#00dfa2" >Overview</h2>
+  <ul>
+    <li>Actively advancing skills in Deep React and Next.js</li>
+    <li>Future Goals: Mastery of MERN Stack, Redux and Next.js</li>
+    <li>Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!</li>
   </ul>
 </div>
 
+<br/>
 
 <h2 style="margin: 25px 0px;color:#00dfa2;"> Get in Touch</h2>
 
