@@ -24,6 +24,8 @@
 
 <br >
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
 <div style="color: white;">
   <style>
     ul {
@@ -31,21 +33,23 @@
       padding-left: 0;
     }
     li::before {
-      content: '\2713'; /* Checkmark Unicode */
-      color: #00dfa2; /* Same as your color scheme */
+      font-family: 'Font Awesome 5 Free';
       margin-right: 8px;
+    }
+    i{
+      color: #00dfa2;
+      margin: 0 10px
     }
   </style>
   
-  <h2 style="color:#00dfa2" >Overview</h2>
+  <h2 style="color:#00dfa2" >Overview 🌟</h2>
   <ul>
-    <li>Actively advancing skills in Deep React and Next.js</li>
-    <li>Future Goals: Mastery of MERN Stack, Redux and Next.js</li>
-    <li>Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!</li>
+    <li><i class="fas fa-code"></i> Actively advancing skills in Deep React and Next.js</li>
+    <li><i class="fas fa-graduation-cap"></i> Future Goals: Mastery of MERN Stack, Redux, and Next.js</li>
+    <li><i class="fas fa-brain"></i> Fun fact: I embrace learning something new every day, constantly expanding my knowledge base! 🚀</li>
   </ul>
 </div>
 
-<br/>
 
 <h2 style="margin: 25px 0px;color:#00dfa2;"> Get in Touch</h2>
 
