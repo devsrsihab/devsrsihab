@@ -28,26 +28,16 @@
 
 <div style="color: white;">
 
-  <style>
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li::before {
-      font-family: 'Font Awesome 5 Free';
-      margin-right: 8px;
-    }
-    i{
-      color: #00dfa2;
-      margin: 0 10px
-    }
-  </style>
   
   <h2 style="color:#00dfa2" >Overview 🌟</h2>
-  <ul>
-    <li><i class="fas fa-code"></i> Actively advancing skills in Deep React and Next.js</li>
-    <li><i class="fas fa-graduation-cap"></i> Future Goals: Mastery of MERN Stack, Redux, and Next.js</li>
-    <li><i class="fas fa-brain"></i> Fun fact: I embrace learning something new every day, constantly expanding my knowledge base! 🚀</li>
+  <ul style=" list-style-type: none;
+      padding-left: 0;" >
+    <li style=" font-family: 'Font Awesome 5 Free';
+      margin-right: 8px;" ><i class="fas fa-code"></i> Actively advancing skills in Deep React and Next.js</li>
+    <li style=" font-family: 'Font Awesome 5 Free';
+      margin-right: 8px;" ><i class="fas fa-graduation-cap"></i> Future Goals: Mastery of MERN Stack, Redux, and Next.js</li>
+    <li style=" font-family: 'Font Awesome 5 Free';
+      margin-right: 8px;" ><i class="fas fa-brain"></i> Fun fact: I embrace learning something new every day, constantly expanding my knowledge base! 🚀</li>
   </ul>
 </div>
 
