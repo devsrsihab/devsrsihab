@@ -6,9 +6,10 @@
 
   <br />
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab+!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
 </p>
+
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Technologies I know</h2>
 
