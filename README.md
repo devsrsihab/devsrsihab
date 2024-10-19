@@ -1,15 +1,14 @@
 ![Github Banner](https://raw.githubusercontent.com/devsrsihab/devsrsihab/main/devsrsihab-banner.svg)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
+</p>
+
 <h2 style="margin: 25px 0px;color:#00dfa2;">Current Status</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsrsihab&background=45%2C1E000B%2C000000&ring=00DFA2&border=0079FF&fire=00DFA2&currStreakNum=00DFA2&currStreakLabel=00DFA2&dates=DFF6FF&sideNums=0079FF&sideLabels=0079FF)](https://git.io/streak-stats)
 
   <br />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
-</p>
-
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Technologies I know</h2>
 
