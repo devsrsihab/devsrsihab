@@ -1,8 +1,9 @@
 ![Github Banner](https://raw.githubusercontent.com/devsrsihab/devsrsihab/main/devsrsihab-banner.svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=009688" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
 </p>
+
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Current Status</h2>
 
