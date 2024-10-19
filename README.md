@@ -15,15 +15,13 @@
 
 <div  >
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="60" width="60">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="60" width="60">
+
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="60" width="60">
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="60" width="60">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" height="60" width="60">
 
