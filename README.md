@@ -17,18 +17,17 @@
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Technologies I know</h2>
 
-<div  >
-
-
+<div>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" height="60" width="60">
-
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="60" width="60">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" height="60" width="60">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Wordpress.svg" height="60" width="60">
-
 </div>
 
 <br >
