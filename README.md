@@ -46,7 +46,7 @@
 
 <br/>
 
-<h2 style="margin: 25px 0px;color:#00dfa2;">My Work</h2>
+<h2 style="margin: 25px 0px;color:#00dfa2;">MERN Stack Expertise</h2>
 
 <p>
 As an aspiring Full-Stack Developer with a focus on the MERN stack, I specialize in creating responsive and dynamic web applications. My projects demonstrate proficiency in React.js for frontend development, Node.js and Express.js for backend services, and MongoDB for database management. I'm passionate about writing clean, efficient code and continuously improving my skills in modern web technologies.
