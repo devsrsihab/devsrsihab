@@ -1,4 +1,4 @@
-![Github Banner](https://raw.githubusercontent.com/devsrsihab/devsrsihab/main/SRSBanner.png)
+[![Github Banner](https://raw.githubusercontent.com/devsrsihab/devsrsihab/main/SRSBanner.png)](https://www.facebook.com/devsrsihab/)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I+am+Md.+Sohanur+Rohman+Sihab!;Aspiring+Full-Stack+Developer;Focused+on+MERN+Stack+Development!&font=Fira%20Code&center=true&width=450&height=50&duration=4000&pause=1000&color=009688" alt="Md. Sohanur Rohman Sihab - Full-Stack Developer">
@@ -40,15 +40,17 @@
 
 🎯Future Goals: Mastery of MERN Stack, Redux and Next.js<br>
 
-💡Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!
+💡 Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!
 
 </div>
 
 <br/>
 
-<h2 style="margin: 25px 0px;color:#00dfa2;"> Get in Touch</h2>
+<h2 style="margin: 25px 0px;color:#00dfa2;"> Where to find me</h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devsrsihab/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/devsrsihab)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/devsrsihab)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/devsrsihab)
 
-  <br />
+<br />
