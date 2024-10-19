@@ -7,7 +7,8 @@
 
 <h2 style="margin: 25px 0px;color:#00dfa2;">Current Status</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsrsihab&background=45%2C1E000B%2C000000&ring=009688&border=0079FF&fire=00DFA2&currStreakNum=00DFA2&currStreakLabel=00DFA2&dates=DFF6FF&sideNums=0079FF&sideLabels=0079FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsrsihab&background=45%2C1E000B%2C000000&ring=009688&border=009688&fire=009688&currStreakNum=009688&currStreakLabel=009688&dates=DFF6FF&sideNums=009688&sideLabels=009688)](https://git.io/streak-stats)
+
 
 
   <br />
