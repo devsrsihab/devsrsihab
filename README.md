@@ -46,15 +46,6 @@
 
 <br/>
 
-<h2 style="margin: 25px 0px;color:#00dfa2;"> Where to find me</h2>
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devsrsihab/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/devsrsihab)
-[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/devsrsihab)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/devsrsihab)
-
-<br />
-
 <h2 style="margin: 25px 0px;color:#00dfa2;">My Work</h2>
 
 <p>
@@ -62,3 +53,10 @@ As an aspiring Full-Stack Developer with a focus on the MERN stack, I specialize
 </p>
 
 <br />
+
+<h2 style="margin: 25px 0px;color:#00dfa2;"> Where to find me</h2>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/devsrsihab/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/devsrsihab)
+[<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">](https://github.com/devsrsihab)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/devsrsihab)
