@@ -38,7 +38,7 @@
 
 🚀Actively advancing skills in Deep React and Next.js <br>
 
-🎯Future Goals: Mastery of MERN Stack, Redux and Next.js<br>
+🎯Future Goals: Mastery of MERN Stack<br>
 
 💡 Fun fact: I embrace learning something new every day, constantly expanding my knowledge base!
 
